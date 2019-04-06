@@ -4,8 +4,9 @@
     "\\DatingApp.API",
     "\\DatingApp.API\\bin",
     "\\DatingApp.API\\Controllers",
+    "\\DatingApp.API\\Dtos",
     "\\DatingApp.API\\obj"
   ],
-  "SelectedNode": "\\DatingApp.API\\obj\\project.assets.json",
+  "SelectedNode": "\\DatingApp.API\\DatingApp.API.csproj",
   "PreviewInSolutionExplorer": false
 }
